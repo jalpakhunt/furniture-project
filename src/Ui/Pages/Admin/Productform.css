@@ -1,0 +1,86 @@
+/* ProductForm.css */
+
+/* Style for the modal button */
+.modal-button {
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the form labels */
+  .form-label {
+    font-weight: bold;
+  }
+  
+  /* Style for the form inputs */
+  .form-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Style for the error messages */
+  .error-message {
+    color: red;
+  }
+  
+  /* Style for the submit button */
+  .submit-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Style for the "Do Something" button */
+  .do-something-button {
+    background-color: #28a745;
+  }
+  
+  /* Style for the "Cancel" button */
+  .cancel-button {
+    background-color: #dc3545;
+  }
+  .modal-header {
+    background-color: #007bff; /* Set your desired background color */
+    color: #fff; /* Set the text color */
+  }
+  
+  /* Style for the form labels */
+  label {
+    font-weight: bold; /* Make labels bold */
+  }
+  
+  /* Style for the form inputs */
+  input {
+    width: 100%; /* Make inputs take up the full width */
+    padding: 8px; /* Add some padding for better spacing */
+  }
+  
+  /* Style for the modal footer */
+  .modal-footer {
+    justify-content: space-between; /* Align buttons to the sides */
+  }
+  
+  /* Style for the buttons */
+  button {
+    cursor: pointer; /* Show pointer cursor on buttons */
+    margin: 0 5px; /* Add some margin between buttons */
+  }
+
+
+
+  .input-pair {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; /* Adjust as needed */
+    flex-wrap: wrap;
+    margin-bottom: 5px;
+  }
+  .input-pair .form-label {
+    margin-right: 10px; /* Adjust as needed */
+  }
+ 

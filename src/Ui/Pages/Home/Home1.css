@@ -1,0 +1,31 @@
+.block1 {
+    border: 1px solid #ccc; /* Example border */
+    padding: 20px; /* Example padding */
+  }
+  
+  .block1 img {
+    width: 100%; /* Make sure the image takes up the full width of its container */
+  }
+  
+  
+  .block1-txt {
+    text-decoration: none; /* Remove default link styles */
+  }
+  
+  .block1-name {
+    font-size: 1.5em; /* Example font size */
+  }
+  
+  .block1-info {
+    font-size: 1em; /* Example font size */
+  }
+  
+  .block1-link {
+    background-color: #007bff; /* Example background color */
+    color: #fff; /* Example text color */
+    padding: 10px 20px; /* Example padding */
+    border-radius: 5px; /* Example border radius */
+    display: inline-block; /* Make it a block element */
+    margin-top: 10px; /* Example margin */
+  }
+  
